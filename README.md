@@ -21,6 +21,7 @@ Our proposed method achieves better performance on NEU-DET and GC10-DET.The spec
 
 ## Visualization of detection results
 Compared with the YOLO series methods, our method is more accurate in NEU-DET and GC10-DET.
+
 NEU-DET
 <img src="assets/neudet-test.png">
 GC10-DET
