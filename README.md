@@ -25,6 +25,9 @@ Our proposed method achieves better performance on NEU-DET and GC10-DET.The spec
 In addition, we use the COCO evaluation metric to compare with ETDNet and KD-LightNet, and the results are shown in Table III.
 <img src="assets/TABLEⅢ.png">
 
+PR_curve
+<img src="assets/PR.png">
+
 ## Visualization of detection results
 Compared with the YOLO series methods, our method is more accurate in NEU-DET and GC10-DET.
 NEU-DET
