@@ -33,7 +33,7 @@ In addition, we use the COCO evaluation metric to compare with ETDNet and KD-Lig
 ⭐PR_curve
 <img src="assets/PR.png">
 
-## Visualization of detection results
+## 🔍 Visualization of detection results
 Compared with the YOLO series methods, our method is more accurate in NEU-DET and GC10-DET.
 
 ⭐Test results on NEU-DET
