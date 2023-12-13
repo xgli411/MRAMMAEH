@@ -6,6 +6,13 @@ Please refer to the upcoming paper for more information.This repo is based on Py
 
 <img src="assets/Overallstructure.png">
 
+## :open_file_folder: Datasets and Weight
+ - NEU-DET: [Google Drive](https://drive.google.com/file/d/1Ki4GqtnGQqE67DvWUY3p7YJWSBZOgB8S/view?usp=drive_link); 
+
+
+## 🚀 Training
+More configuration please see train.py and where you can set dataset path, batch size, weight path, and so on.
+
 ## Packages
 The following packages must be installed to use this project.
 ```
@@ -13,9 +20,6 @@ pip install -U openmim
 mim install mmengine
 mim install "mmcv>=2.0.0"
 ```
-
-## 🚀 Training
-More configuration please see train.py and where you can set dataset path, batch size, weight path, and so on.
 
 ## :trophy: Result
 Our proposed method achieves better performance on NEU-DET and GC10-DET.The specific indicators are shown in Table I and Table II.
