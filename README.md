@@ -1,6 +1,6 @@
 # Multi-Scale Sensing and Multi-Dimensional Feature Enhancement for Surface Defect Detection of Hot-rolled Steel Strip
 ## Introduction
-Here is the paper we will publish "Multi-Scale Sensing and Multi-Dimensional Feature Enhancement for Surface Defect Detection of Hot-rolled". 
+Here is the paper we will publish "Multi-Scale Sensing and Multi-Dimensional Feature Enhancement for Surface Defect Detection of Hot-rolled steel strip". 
 
 Please refer to the upcoming paper for more information.This repo is based on PyTorch.
 
@@ -23,14 +23,15 @@ Our proposed method achieves better performance on NEU-DET and GC10-DET.The spec
 <img src="assets/TABLEⅡ.png">
 
 In addition, we use the COCO evaluation metric to compare with ETDNet and KD-LightNet, and the results are shown in Table III.
+
 <img src="assets/TABLEⅢ.png">
 
 PR_curve
-
 <img src="assets/PR.png">
 
 ## Visualization of detection results
 Compared with the YOLO series methods, our method is more accurate in NEU-DET and GC10-DET.
+
 NEU-DET
 
 <img src="assets/neudet-test.png">
