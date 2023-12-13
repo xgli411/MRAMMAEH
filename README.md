@@ -7,7 +7,7 @@ Please refer to the upcoming paper for more information.This repo is based on Py
 <img src="assets/Overallstructure.png">
 
 ## :open_file_folder: Weight
- - NEU-DET: [Google Drive](https://drive.google.com/file/d/1Ki4GqtnGQqE67DvWUY3p7YJWSBZOgB8S/view?usp=drive_link); 
+ - NEU-DET: [Google Drive](https://drive.google.com/file/d/1Ki4GqtnGQqE67DvWUY3p7YJWSBZOgB8S/view?usp=drive_link)
 
 
 ## 🚀 Training
