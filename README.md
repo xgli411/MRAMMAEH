@@ -36,10 +36,10 @@ PR_curve
 ## Visualization of detection results
 Compared with the YOLO series methods, our method is more accurate in NEU-DET and GC10-DET.
 
-NEU-DET
+⭐Test results on NEU-DET
 
 <img src="assets/neudet-test.png">
 
-GC10-DET
+⭐Test results on GC10-DET
 
 <img src="assets/gc10det-test.png">
