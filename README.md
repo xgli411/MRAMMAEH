@@ -1,4 +1,6 @@
 # Multi-Scale Sensing and Multi-Dimensional Feature Enhancement for Surface Defect Detection of Hot-rolled Steel Strip
+⚠ Warning: This paper is under review, may not reprint any content!!!
+⚠ Warning: This paper is under review, may not reprint any content!!!
 ## Introduction
 Here is the paper we will publish "Multi-Scale Sensing and Multi-Dimensional Feature Enhancement for Surface Defect Detection of Hot-rolled steel strip". 
 
