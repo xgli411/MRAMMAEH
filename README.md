@@ -9,7 +9,7 @@ Please refer to the upcoming paper for more information.This repo is based on Py
 <img src="assets/Overallstructure.png">
 
 ## :open_file_folder: Dataset and Weight
-[Google Drive](https://drive.google.com/drive/folders/11VTsQLZQIoUrU34LT5n1VA6hJhCmhk5d?usp=drive_link)
+[Google Drive]()
 
 
 ## 🚀 Training
