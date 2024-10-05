@@ -4,8 +4,6 @@ Here is the paper we publish "Multi-Scale Sensing and Multi-Dimensional Feature 
 
 Please refer to the paper for more information. This repo is based on PyTorch.
 
-<img src="assets/Overallstructure.png">
-
 ## :open_file_folder: Dataset and Weight
 GC10-DET [Google Drive](https://drive.google.com/drive/folders/1il-h-ijcIpq4LUIcwOvegy7BqeBCabf9?usp=drive_link)
 NEU-DET  [Google Drive](https://drive.google.com/drive/folders/1A0UFpEhH_Wa98OvncSeX5IXnuCNOyF-J?usp=drive_link)
