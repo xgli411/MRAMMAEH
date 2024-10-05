@@ -9,9 +9,9 @@ GC10-DET [Google Drive](https://drive.google.com/drive/folders/1il-h-ijcIpq4LUIc
 
 NEU-DET  [Google Drive](https://drive.google.com/drive/folders/1A0UFpEhH_Wa98OvncSeX5IXnuCNOyF-J?usp=drive_link)
 
-MDGC10-DET [Google Drive](https://drive.google.com/drive/folders/1il-h-ijcIpq4LUIcwOvegy7BqeBCabf9?usp=drive_link)
+MDGC10-DET [Google Drive](https://drive.google.com/drive/folders/15kABnLhL2p_5LY73B34omKnDQKgAHQfl?usp=drive_link)
 
-Weights [Google Drive](https://drive.google.com/file/d/1Ki4GqtnGQqE67DvWUY3p7YJWSBZOgB8S/view?usp=drive_link)  [Google Drive]()
+Weights [Google Drive](https://drive.google.com/file/d/1Ki4GqtnGQqE67DvWUY3p7YJWSBZOgB8S/view?usp=drive_link)  [Google Drive](https://drive.google.com/file/d/1U2L_YcLlSmxIxvMBf6K-7ZnV1zxmyZeg/view?usp=drive_link)
 
 ## 🚀 Training
 More configuration please see train.py and where you can set dataset path, batch size, weight path, and so on.
