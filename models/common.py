@@ -961,7 +961,7 @@ class Bottle2neck(nn.Module):
         return out
 
 
-class C3_Res2Block(C3):
+class MRAM(C3):
     # CSP Bottleneck with 3 convolutions
     def __init__(self, c1, c2, n=1, shortcut=True, g=1, e=0.5):  # ch_in, ch_out, number, shortcut, groups, expansion
         super().__init__(c1, c2, n, shortcut, g, e)
