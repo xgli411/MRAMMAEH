@@ -7,8 +7,9 @@ Please refer to the paper for more information. This repo is based on PyTorch.
 <img src="assets/Overallstructure.png">
 
 ## :open_file_folder: Dataset and Weight
-[Google Drive]()
-
+GC10-DET [Google Drive](https://drive.google.com/drive/folders/1il-h-ijcIpq4LUIcwOvegy7BqeBCabf9?usp=drive_link)
+NEU-DET  [Google Drive](https://drive.google.com/drive/folders/1A0UFpEhH_Wa98OvncSeX5IXnuCNOyF-J?usp=drive_link)
+MDGC10-DET [Google Drive](https://drive.google.com/drive/folders/1il-h-ijcIpq4LUIcwOvegy7BqeBCabf9?usp=drive_link)
 
 ## 🚀 Training
 More configuration please see train.py and where you can set dataset path, batch size, weight path, and so on.
@@ -21,25 +22,11 @@ mim install mmengine
 mim install "mmcv>=2.0.0"
 ```
 
-## :trophy: Result
-Our proposed method achieves better performance on NEU-DET and GC10-DET.The specific indicators are shown in Table I and Table II.
-<img src="assets/TABLEⅠ.png">
-<img src="assets/TABLEⅡ.png">
-
-In addition, we use the COCO evaluation metric to compare with ETDNet and KD-LightNet, and the results are shown in Table III.
-
-<img src="assets/TABLEⅢ.png">
+## :🔍trophy: Result
 
 ⭐PR_curve
-<img src="assets/PR.png">
+<img src="assets/pr1.png">
 
-## 🔍 Visualization of detection results
-Compared with the YOLO series methods, our method is more accurate in NEU-DET and GC10-DET.
+⭐PR_curve
+<img src="assets/pr2.png">
 
-⭐Test results on NEU-DET
-
-<img src="assets/neudet-test.png">
-
-⭐Test results on GC10-DET
-
-<img src="assets/gc10det-test.png">
