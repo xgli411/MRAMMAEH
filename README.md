@@ -22,7 +22,7 @@ mim install mmengine
 mim install "mmcv>=2.0.0"
 ```
 
-## :🔍trophy: Result
+## 🔍trophy: Result
 
 ⭐PR_curve
 <img src="assets/pr1.png">
