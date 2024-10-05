@@ -16,7 +16,7 @@ Weights [Google Drive](https://drive.google.com/file/d/1Ki4GqtnGQqE67DvWUY3p7YJW
 ## 🚀 Training
 More configuration please see train.py and where you can set dataset path, batch size, weight path, and so on.
 
-## trophy: Packages
+##  Packages
 The following packages must be installed to use this project.
 ```
 pip install -U openmim
