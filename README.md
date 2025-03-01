@@ -32,3 +32,15 @@ mim install "mmcv>=2.0.0"
 ⭐PR_curve
 <img src="assets/pr2.png">
 
+## Cite this article
+
+Li X, Xu C, Li J, et al. Multi-scale sensing and multi-dimensional feature enhancement for surface defect detection of hot-rolled steel strip[J]. Nondestructive Testing and Evaluation, 2024: 1-24.
+
+@article{li2024multi,
+  title={Multi-scale sensing and multi-dimensional feature enhancement for surface defect detection of hot-rolled steel strip},
+  author={Li, Xianguo and Xu, Changyu and Li, Jie and Zhou, Xinyi and Li, Yang},
+  journal={Nondestructive Testing and Evaluation},
+  pages={1--24},
+  year={2024},
+  publisher={Taylor \& Francis}
+}
